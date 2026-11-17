@@ -1,0 +1,10 @@
+multi-agent-research-assistant/
+├── .gitignore
+├── docker-compose.yml
+├── docker/
+│   └── Dockerfile
+└── app/
+    ├── main.py
+    └── api/
+        ├── schemas.py
+        └── routes.py
